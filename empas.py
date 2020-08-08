@@ -93,8 +93,8 @@ if __name__=="__main__":
           os.system('python moonton.py')
           kembali()
      elif f == "00" or f == "0":
-        exit()
+          exit()
      else:
-        print ("\033[1;97m[\033[1;91m!\033[1;97m]Wrong Input\033[1;91m!!\033[00m")
-        kembali() 
+          print ("\033[1;97m[\033[1;91m!\033[1;97m]Wrong Input\033[1;91m!!\033[00m")
+          kembali() 
 
